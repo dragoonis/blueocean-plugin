@@ -34,7 +34,6 @@ import org.kohsuke.stapler.framework.io.ByteBuffer;
 
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
-import javax.servlet.ServletException;
 import java.io.IOException;
 import java.io.Reader;
 import java.io.StringReader;
